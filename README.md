@@ -39,4 +39,7 @@
 **Lambda expressions**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 193541" src="https://github.com/user-attachments/assets/6793ee65-b928-416d-b099-1af2105dfea1" />
 
+**Class**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 194119" src="https://github.com/user-attachments/assets/03e1635a-3c45-41c3-a643-2f366cb40e5e" />
+
 
