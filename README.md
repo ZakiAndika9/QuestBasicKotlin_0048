@@ -8,3 +8,6 @@
 
 **implementasi collection tipe List**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 191649" src="https://github.com/user-attachments/assets/240124f8-f0b8-4c08-b1fb-8ddca2b57f08" />
+
+**implementasi collection tipe Set**
+![Uploading Screenshot 2026-09-24 192022.png…]()
