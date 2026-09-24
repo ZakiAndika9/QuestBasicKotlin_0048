@@ -45,3 +45,5 @@
 **Class: Access properties**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 194434" src="https://github.com/user-attachments/assets/40db53ed-d389-4096-a6ed-b47309618414" />
 
+**Null safety**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 195717" src="https://github.com/user-attachments/assets/095d54af-58eb-45a9-9ce6-002e21491046" />
