@@ -29,3 +29,6 @@
 
 **Named arguments**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 193156" src="https://github.com/user-attachments/assets/afc40c64-75cc-43ba-b6e3-3ab59a303421" />
+
+**Default parameter values**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 193307" src="https://github.com/user-attachments/assets/6d4026b8-56f3-4e12-82d9-606a02653a72" />
