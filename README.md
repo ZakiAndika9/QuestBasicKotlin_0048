@@ -32,3 +32,7 @@
 
 **Default parameter values**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 193307" src="https://github.com/user-attachments/assets/6d4026b8-56f3-4e12-82d9-606a02653a72" />
+
+**Functions without return**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 193353" src="https://github.com/user-attachments/assets/bffbaa79-919a-4eb2-9242-c6c034ce5d30" />
+
