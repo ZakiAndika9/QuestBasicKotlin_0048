@@ -14,3 +14,6 @@
 
 **Map**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 192153" src="https://github.com/user-attachments/assets/23e77cac-5864-45b1-9a65-0f20dbf61b8c" />
+
+**Conditional expressions**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 192259" src="https://github.com/user-attachments/assets/29a40e3e-2944-40d8-b556-0b49e0529334" />
