@@ -42,4 +42,6 @@
 **Class**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 194119" src="https://github.com/user-attachments/assets/03e1635a-3c45-41c3-a643-2f366cb40e5e" />
 
+**Class: Access properties**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 194434" src="https://github.com/user-attachments/assets/40db53ed-d389-4096-a6ed-b47309618414" />
 
