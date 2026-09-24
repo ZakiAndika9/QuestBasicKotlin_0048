@@ -20,3 +20,6 @@
 
 **Conditional expressions ; when**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 192739" src="https://github.com/user-attachments/assets/2e6bbfb2-e14c-468b-b8c9-f75e46d18a9e" />
+
+**Loops ; for**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 192856" src="https://github.com/user-attachments/assets/16f8c394-15ac-49a8-85be-6d224bfd767d" />
