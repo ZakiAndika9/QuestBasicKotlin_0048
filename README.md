@@ -26,3 +26,6 @@
 
 **Functions**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 193105" src="https://github.com/user-attachments/assets/9cdf2ea0-73d5-4524-812e-5031505f4b5e" />
+
+**Named arguments**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 193156" src="https://github.com/user-attachments/assets/afc40c64-75cc-43ba-b6e3-3ab59a303421" />
