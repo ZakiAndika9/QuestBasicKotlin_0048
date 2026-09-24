@@ -36,3 +36,7 @@
 **Functions without return**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 193353" src="https://github.com/user-attachments/assets/bffbaa79-919a-4eb2-9242-c6c034ce5d30" />
 
+**Lambda expressions**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 193541" src="https://github.com/user-attachments/assets/6793ee65-b928-416d-b099-1af2105dfea1" />
+
+
