@@ -10,4 +10,7 @@
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 191649" src="https://github.com/user-attachments/assets/240124f8-f0b8-4c08-b1fb-8ddca2b57f08" />
 
 **implementasi collection tipe Set**
-![Uploading Screenshot 2026-09-24 192022.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 192022" src="https://github.com/user-attachments/assets/685f4db9-3d38-4572-babc-15226694c625" />
+
+**Map**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 192153" src="https://github.com/user-attachments/assets/23e77cac-5864-45b1-9a65-0f20dbf61b8c" />
