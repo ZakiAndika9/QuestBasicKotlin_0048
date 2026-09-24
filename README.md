@@ -47,3 +47,7 @@
 
 **Null safety**
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 195717" src="https://github.com/user-attachments/assets/095d54af-58eb-45a9-9ce6-002e21491046" />
+
+**Use Elvis operator**
+<img width="1920" height="1080" alt="Screenshot 2026-09-24 195815" src="https://github.com/user-attachments/assets/2cc860e9-acc8-41a5-8f3a-0172d51d3b5b" />
+
